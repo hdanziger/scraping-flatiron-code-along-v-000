@@ -1,1 +1,2 @@
-class courseend 
+class Course
+end
